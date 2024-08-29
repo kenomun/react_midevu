@@ -25,6 +25,7 @@ const users = [
 
 	}
 ]
+
 export function App () {
 	return (
 		<section className='App'>
@@ -39,9 +40,6 @@ export function App () {
 					</TwitterFollowCard>
 				))
 			}
-			
-
-			
 		</section>
 	)
 }
